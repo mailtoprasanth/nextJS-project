@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "prisma": "^5.14.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "react-hot-toast": "^2.4.1"
+  }
+}
